@@ -31,7 +31,7 @@ Example output:
 ********* Claysense sample predictions *********
 Extrusion | Overhang
 *********************************************
-![alt text](sample_heatmap.png.png)
+![alt text](sample_heatmap.png)
 ```
 
 ## Contact
