@@ -32,7 +32,7 @@ Example output:
 Extrusion | Overhang
 *********************************************
 
-![Heatmap showing sample prediction results for extrusion and overhang quality in 3D clay printing. The heatmap displays color-coded regions indicating varying levels of print quality and success, with labeled axes for extrusion and overhang. The surrounding environment is a digital interface with a neutral, analytical tone. All text in the image is transcribed in the example output above.]("E:\OneDrive - Delft University of Technology\TUD Master\graduation project\report\Figure_1.png")
+![Heatmap showing sample prediction results for extrusion and overhang quality in 3D clay printing.](report/Figure_1.png)
 ```
 
 ## Contact
