@@ -31,8 +31,7 @@ Example output:
 ********* Claysense sample predictions *********
 Extrusion | Overhang
 *********************************************
-
-![Heatmap showing sample prediction results for extrusion and overhang quality in 3D clay printing.](report/Figure_1.png)
+![alt text](Figure_1.png)
 ```
 
 ## Contact
