@@ -17,7 +17,7 @@ from matplotlib import pyplot as plt
 
 
 ########## predict label from orginal sample file ###################
-sample_data = r"Claysense\Dataset\prediction_sample"
+sample_data = r"Claysense\Training Result\prediction_sample"
 model = DINO2ResAttClassifier.load_from_checkpoint(
     checkpoint_path=r"Claysense\checkpoints\19062025\1234\DINO2ResAtt-model1_balanced_DINOv2-19062025-epoch=46-val_loss=0.15-val_acc=0.00.ckpt",
     num_classes=3,
